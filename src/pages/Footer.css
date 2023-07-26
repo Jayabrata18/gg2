@@ -1,0 +1,297 @@
+.footer-child {
+  position: absolute;
+  top: 49px;
+  left: 0;
+  background: linear-gradient(180deg, #b2f0ff, rgba(178, 240, 255, 0));
+  width: 100%;
+  height: 1068px;
+}
+.footer-item {
+  position: absolute;
+  top: 163px;
+  left: 77px;
+  border-radius: 6px;
+  background-color: var(--color-cornflowerblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid transparent;
+  box-sizing: border-box;
+  width: 707px;
+  height: 337px;
+  color: 618DDF;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+      linear-gradient(0deg, #618DDF, #618DDF);
+}
+/* .footer-inner {
+  position: absolute;
+  top: 183px;
+  left: 91px;
+  width: 488px;
+  height: 111px;
+} */
+.footer-child1,
+.footer-child2 {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  background-color: var(--color-khaki);
+  width: 100%;
+  height: 8px;
+}
+.footer-child2 {
+  top: 606px;
+}
+.shroomiez-curate-the {
+  margin: 0;
+}
+.shroomiez-curate-the-container {
+  position: absolute;
+  top: 212px;
+  left: 124px;
+  font-size: 33px;
+  font-family: var(--font-jockey-one);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 610px;
+  height: 169px;
+}
+.open-icon-nobg-2 {
+  text-decoration: none;
+  position: absolute;
+  top: 415px;
+  left: 671px;
+  width: 63px;
+  height: 61px;
+  background-image: url(/public/openiconnobg-2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.rectangle-footer {
+  position: absolute;
+  top: 1088px;
+  left: 0;
+  background-color: rgba(97, 141, 223, 1);
+  width: 100%;
+  height: 154px;
+}
+.request-shroomlist,
+.shroomiez-terms {
+  position: absolute;
+  top: 1124px;
+  left: 31px;
+  display: inline-block;
+  width: 318px;
+  height: 34px;
+}
+.shroomiez-terms {
+  margin: 0;
+  top: 1180px;
+  left: 1072px;
+  font-size: inherit;
+  text-decoration: underline;
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-white);
+  width: 397px;
+  height: 45px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.footer-child3,
+.footer-child4,
+.footer-child5 {
+  position: absolute;
+  top: 1165px;
+  left: 25px;
+  border-radius: 50%;
+  width: 40px;
+  height: 42px;
+  object-fit: cover;
+}
+.footer-child4,
+.footer-child5 {
+  top: 789px;
+  left: 470px;
+  width: 155px;
+  height: 160px;
+}
+.footer-child5 {
+  left: 844px;
+}
+.footer-child6,
+.rectangle-textarea {
+  position: absolute;
+  top: 1165px;
+  height: 42px;
+}
+.footer-child6 {
+  left: 349px;
+  border-radius: 50%;
+  width: 40px;
+  object-fit: cover;
+}
+.rectangle-textarea {
+  border: 0;
+  background-color: #d9d9d9;
+  left: 45px;
+  width: 276px;
+}
+.footer-child7,
+.footer-child8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #f5c98e;
+  position: absolute;
+  top: 790px;
+  left: 547px;
+  width: 375px;
+  height: 159px;
+}
+.footer-child8 {
+  background-color: #eae9e9;
+  top: 1165px;
+  left: 321px;
+  width: 48px;
+  height: 42px;
+}
+.email-address {
+  margin: 0;
+  position: absolute;
+  top: 1174px;
+  left: 44px;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 500;
+  font-family: inherit;
+}
+/* .screenshot-2023-06-02-at-1522 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1174px;
+  left: 341px;
+  width: 34px;
+  height: 26px;
+  background-image: url(/public/screenshot20230602at152228photoroom1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+} */
+.footer-child8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1174px;
+  left: 341px;
+  width: 34px;
+  height: 26px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.screenshot-2023-06-02-at-1527,
+.footer-image-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 41px;
+  object-fit: cover;
+}
+.footer-image-2 {
+  top: 610px;
+  height: 482px;
+}
+.bigButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 796px;
+  left: 537px;
+  width: 381px;
+  height: 153px;
+  border-radius: 100px 100px 100px 100px;
+  background-color: #f5c98e;
+  /* background-image: url(/public/entershroomieverse1@3x.png); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.buttonText {
+    position: absolute;
+    top: 12px;
+    left: -12px;
+    font-size: var(--font-size-26xl);
+    font-family: var(--font-irish-grover);
+    text-align: center;
+    display: inline-block;
+    width: 413px;
+    height: 107px;
+}
+
+
+.img-1022-1-icon {
+  position: absolute;
+  top: 162px;
+  left: 764px;
+  width: 737px;
+  height: 345px;
+  object-fit: cover;
+}
+.footer {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1242px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.discord2-2,
+.ig3-3,
+.tg-icon-3,
+.twitter1-3 {
+  text-decoration: none;
+  position: absolute;
+  top: 1102px;
+  left: 1202px;
+  width: 45px;
+  height: 45px;
+  background-image: url(/public/discord.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+.ig3-3,
+.tg-icon-3,
+.twitter1-3 {
+  left: 1262px;
+  width: 51px;
+  height: 41px;
+  background-image: url(/public/ig.png);
+}
+
+.tg-icon-3,
+.twitter1-3 {
+  top: 1102px;
+  left: 1146px;
+  width: 38px;
+  height: 39px;
+  background-image: url(/public/twitter.png);
+}
+
+.tg-icon-3 {
+  top: 1102px;
+  left: 1328px;
+  width: 39px;
+  background-image: url(/public/tgicon-2@3x.png);
+}

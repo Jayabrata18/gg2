@@ -1,0 +1,57 @@
+import { memo } from "react";
+import "./Footer.css";
+const Footer = memo(() => {
+  return (
+    <div className="footer" id="MainDiv">
+      <div className="footer-child" />
+      <div className="footer-item" id="BlueDiv" />
+      <img className="footer-child1" alt="" src="Rectangle 15.png" />
+      <img className="footer-child2" alt="" src="Rectangle 15.png" />
+      <span className="shroomiez-curate-the-container" id="BlueSpan">
+        <p className="shroomiez-curate-the">{`Shroomiez curate the Shroomieverse via snapshot proposals. 
+        Get ready for the SHROOMIEZ WARS.  `}</p>
+      </span>
+      <a className="open-icon-nobg-2" />
+      <footer className="rectangle-footer" id="Footer" />
+      <b className="request-shroomlist" id="Mail">
+        REQUEST SHROOMLIST
+      </b>
+      <h6
+        className="shroomiez-terms"
+        id="terms"
+      >{`Shroomiez Terms & Conditions`}</h6>
+      <img className="footer-child3" alt="" src="/ellipse-1@2x.png" />
+      <img className="footer-child4" alt="" src="/ellipse-3@2x.png" />
+      <img className="footer-child5" alt="" src="/ellipse-3@2x.png" />
+      <img className="footer-child6" alt="" src="/ellipse-2@2x.png" />
+      <textarea className="rectangle-textarea" />
+      <button className="footer-child7" autoFocus />
+      <button className="footer-child8" />
+      <h2 className="email-address">Email Address</h2>
+      <button className="screenshot-2023-06-02-at-1522" />
+      <img
+        className="screenshot-2023-06-02-at-1527"
+        alt=""
+        src="/footer-header.png"
+      />
+      <img className="footer-image-2" alt="" src="/wormhole1.jpeg" />
+      <button className="bigButton" autoFocus>
+        <spam className="buttonText"></spam>
+      </button>
+      <div className="home-features-1">
+        <div className="background-will-be-container">
+          <ul className="background-will-be">{`Background will be a 360% of a CG majestic garden&forest scenario`}</ul>
+        </div>
+        <div className="left-square-containing-container">
+          <ul className="background-will-be">
+            Left square containing Shroomiez will change Shroomie every 2
+            seconds from left to right
+          </ul>
+        </div>
+      </div>
+      <img className="img-1022-1-icon" alt="" src="/footer.png" />
+    </div>
+  );
+});
+
+export default Footer;

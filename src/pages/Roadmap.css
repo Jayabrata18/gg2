@@ -1,0 +1,310 @@
+.roadmap-child {
+  position: absolute;
+  top: -10px;
+  left: 0;
+  background: linear-gradient(180deg, #1858d1, #b3f0ff);
+  width: 1440px;
+  height: 1043px;
+}
+
+.roadmap-item {
+  position: absolute;
+  top: 845px;
+  left: 774px;
+  width: 212px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.logo-bw-photoroom-3-icon,
+.shroomiez-amanitao-nobg-2-icon {
+  position: absolute;
+  top: 5px;
+  left: 15px;
+  width: 94px;
+  height: 113px;
+  object-fit: cover;
+}
+
+.shroomiez-amanitao-nobg-2-icon {
+  top: 34px;
+  left: 109px;
+  width: 344px;
+  height: 56px;
+}
+
+.roadmap-inner {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #2a50b7;
+  position: absolute;
+  top: 29px;
+  left: 1250px;
+  border-radius: 3px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 159px;
+  height: 68px;
+}
+
+.menu {
+  position: absolute;
+  top: 30px;
+  left: 1280px;
+  font-size: 45px;
+  display: inline-block;
+  width: 143px;
+  height: 56px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+
+.rectangle-icon,
+.roadmap-child1 {
+  position: absolute;
+  top: 335px;
+  left: 1062px;
+  border-radius: var(--br-7xs);
+  width: 262px;
+  height: 155px;
+  object-fit: cover;
+}
+
+.roadmap-child1 {
+  top: 250px;
+  left: 230px;
+  width: 350px;
+  height: 57px;
+}
+
+.roadmap-child2,
+.roadmap-child3,
+.roadmap-child4,
+.roadmap-child5 {
+  position: absolute;
+  top: 264px;
+  left: 995px;
+  border-radius: var(--br-7xs);
+  width: 311px;
+  height: 62px;
+  object-fit: cover;
+}
+
+.roadmap-child3,
+.roadmap-child4,
+.roadmap-child5 {
+  top: 156px;
+  left: 933px;
+  width: 360px;
+  height: 57px;
+}
+
+.roadmap-child4,
+.roadmap-child5 {
+  top: 651px;
+  left: 982px;
+  width: 342px;
+}
+
+.roadmap-child5 {
+  top: 341px;
+  left: 163px;
+  width: 308px;
+}
+
+.shroomiezeth-lp-goes {
+  position: absolute;
+  top: 273px;
+  left: 1011px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 282px;
+  height: 42px;
+}
+
+.liquid-backing-via,
+.shroomieverseity-beta-releas,
+.shroomiez-1st-anniversary,
+.shroomiez-hologram-claim {
+  position: absolute;
+  top: 162px;
+  left: 948px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 319px;
+  height: 42px;
+}
+
+.liquid-backing-via,
+.shroomiez-1st-anniversary,
+.shroomiez-hologram-claim {
+  top: 656px;
+  left: 995px;
+  width: 327px;
+}
+
+.liquid-backing-via,
+.shroomiez-hologram-claim {
+  top: 256px;
+  left: 247px;
+  width: 324px;
+  height: 40px;
+}
+
+.shroomiez-hologram-claim {
+  top: 347px;
+  left: 180px;
+  width: 274px;
+}
+
+.roadmap-child6,
+.roadmap-child7,
+.roadmap-child8 {
+  position: absolute;
+  top: 118px;
+  left: 630px;
+  border-radius: var(--br-7xs);
+  width: 285px;
+  height: 155px;
+  object-fit: cover;
+}
+
+.roadmap-child7,
+.roadmap-child8 {
+  top: 460px;
+  left: 96px;
+  width: 276px;
+  height: 224px;
+}
+
+.roadmap-child8 {
+  top: 746px;
+  left: 982px;
+  height: 196px;
+}
+
+.h1-2024 {
+  margin: 0;
+}
+
+.tiddle-heh {
+  margin: 0;
+  color: var(--color-black);
+}
+
+.h1-2024-tiddle-container {
+  position: absolute;
+  top: 474px;
+  left: 120px;
+  display: inline-block;
+  width: 229px;
+  height: 133px;
+}
+
+.h2-2024-tiddle-container,
+.q3-2023-660-container,
+.q4-2023-6000-container {
+  position: absolute;
+  top: 758px;
+  left: 1006px;
+  display: inline-block;
+  width: 229px;
+  height: 133px;
+}
+
+.q3-2023-660-container,
+.q4-2023-6000-container {
+  top: 344px;
+  left: 1082px;
+}
+
+.q4-2023-6000-container {
+  top: 129px;
+  left: 652px;
+}
+
+.line-icon {
+  position: absolute;
+  top: 427px;
+  left: 950px;
+  width: 116px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.roadmap-child9 {
+  position: absolute;
+  top: 265px;
+  left: 767px;
+  width: 1.2px;
+  height: 80px;
+}
+
+.roadmap-child10,
+.roadmap-child11 {
+  position: absolute;
+  top: 312.23px;
+  left: 948.37px;
+  width: 50.63px;
+  height: 41.77px;
+}
+
+.roadmap-child11 {
+  top: 203.8px;
+  left: 910.02px;
+  width: 29.98px;
+  height: 142.2px;
+}
+
+.roadmap-child12,
+.roadmap-child13 {
+  position: absolute;
+  top: 298px;
+  left: 573.22px;
+  width: 62.78px;
+  height: 77.63px;
+}
+
+.roadmap-child13 {
+  top: 388px;
+  left: 465.48px;
+  width: 63.52px;
+  height: 38.86px;
+}
+
+.roadmap-child14,
+.roadmap-child15,
+.roadmaps-nobg-1-icon {
+  position: absolute;
+  top: 548px;
+  left: 369px;
+  width: 104.01px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.roadmap-child15,
+.roadmaps-nobg-1-icon {
+  top: 676px;
+  left: 863px;
+  width: 123px;
+}
+
+.roadmaps-nobg-1-icon {
+  top: 133px;
+  left: 283px;
+  width: 788px;
+  height: 1104px;
+}
+
+.roadmap {
+  position: relative;
+  background-color: #fff;
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-8xl);
+  color: var(--color-gray);
+  font-family: var(--font-jockey-one);
+}

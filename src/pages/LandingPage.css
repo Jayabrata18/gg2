@@ -1,0 +1,188 @@
+.landing-page-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, #370c59, #abccff);
+    width: 100%;
+    height: 109px;
+}
+
+.landing-page-item {
+    position: absolute;
+    top: 107px;
+    left: 0;
+    background: linear-gradient(180deg, #3872e6, #cfdefb);
+    width: 100%;
+    height: 917px;
+}
+
+.untitled-artwork-1-icon {
+    position: absolute;
+    top: 112px;
+    left: 0;
+    width: 100%;
+    height: 912px;
+    object-fit: cover;
+}
+
+.landing-page {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+}
+.landing-page-inner {
+    position: absolute;
+    top: 102px;
+    left: 0;
+    width: 100%;
+    height: 10px;
+    object-fit: cover;
+}
+.logo-bw-photoroom-1-icon {
+    position: absolute;
+    top: 1px;
+    left: 679px;
+    width: 86px;
+    height: 97px;
+    object-fit: cover;
+}
+
+.get-shroomlisted1 {
+    margin: 0;
+    position: absolute;
+    top: 40px;
+    left: 10px;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+    background: linear-gradient(180deg, red, rgba(255, 220, 96, 0.88));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.listed1 {
+    margin: 0;
+    position: absolute;
+    top: 40px;
+    left: 770px;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+    background: linear-gradient(180deg, red, rgba(255, 220, 96, 0.88));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.button-big {
+    cursor: pointer;
+    border: 1px solid var(--color-gray-200);
+    padding: 0;
+    background-color: var(--color-cornsilk-200);
+    position: absolute;
+    top: 614px;
+    left: 497px;
+    border-radius: var(--br-4xs);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    box-sizing: border-box;
+    width: 435px;
+    height: 154px;
+}
+
+.press-to-enter {
+    position: absolute;
+    top: 634px;
+    left: 512px;
+    font-size: var(--font-size-26xl);
+    font-family: var(--font-irish-grover);
+    text-align: center;
+    display: inline-block;
+    width: 413px;
+    height: 107px;
+}
+.shroomiez-amanitao-nobg-1-icon {
+    position: absolute;
+    top: 314px;
+    left: 258px;
+    width: 923px;
+    height: 130px;
+    object-fit: cover;
+}
+.twitter1-21 {
+    text-decoration: none;
+    position: absolute;
+    top: 139px;
+    left: 1267px;
+    width: 39px;
+    height: 39px;
+    background-image: url(/public/twitter.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.discord2-11 {
+    text-decoration: none;
+    position: absolute;
+    top: 137px;
+    left: 1380px;
+    width: 43px;
+    height: 43px;
+    background-image: url(/public/discord.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.ig3-21 {
+    text-decoration: none;
+    position: absolute;
+    top: 140px;
+    left: 1319px;
+    width: 47px;
+    height: 38px;
+    background-image: url(/public/ig.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.tg-icon-21 {
+    text-decoration: none;
+    position: absolute;
+    top: 139px;
+    left: 1438px;
+    width: 39px;
+    height: 39px;
+    background-image: url(/public/tgicon-2@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.landing-page-child1 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: var(--color-royalblue);
+    position: absolute;
+    top: 136px;
+    left: 25px;
+    border-radius: var(--br-7xs);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 159px;
+    height: 68px;
+}
+.menu {
+    position: absolute;
+    top: 137px;
+    left: 55px;
+    font-size: var(--font-size-26xl);
+    font-family: var(--font-jockey-one);
+    color: var(--color-gray-100);
+    display: inline-block;
+    width: 143px;
+    height: 56px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    -webkit-text-stroke: 1px #000;
+}

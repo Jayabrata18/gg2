@@ -1,0 +1,132 @@
+.home-child,
+.home-item {
+  position: absolute;
+  top: 286px;
+  width: 9px;
+  height: 552px;
+}
+.home-child {
+  left: 570px;
+  background: linear-gradient(180deg, #fae491, #f8edc0);
+}
+.home-item {
+  left: 85px;
+  background: linear-gradient(180deg, #fae491, #f51587);
+}
+.home1 {
+  position: relative;
+  background: linear-gradient(180deg, #2962cd, #b3f0ff),
+    linear-gradient(180deg, #2962cd, #b3f0ff);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+}
+.home-inner {
+  position: absolute;
+  top: 201px;
+  left: 650px;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-cornsilk-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 696px;
+  height: 720px;
+}
+.shroomiez-curate-the {
+  margin: 0;
+}
+.open-icon-nobg-2 {
+  text-decoration: none;
+  position: absolute;
+  top: 856px;
+  left: 1273px;
+  width: 58px;
+  height: 50px;
+  background-image: url(/public/openiconnobg-2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+.shroomiez-curate-the-container {
+  position: absolute;
+  top: 19px;
+  left: 38px;
+  font-size: 33px;
+  font-family: var(--font-jockey-one);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 610px;
+  height: 169px;
+}
+
+.shroomiez-amanitao-nobg-3-icon {
+  position: absolute;
+  top: 320px;
+  left: 127px;
+  width: 410px;
+  height: 61px;
+  object-fit: cover;
+}
+
+.sliding-window {
+  display: flex;
+  overflow: hidden;
+  max-width: 600px;
+  position: absolute;
+  top: 293px;
+  left: 85px;
+  width: 493px;
+  height: 545px;
+  object-fit: cover;
+  
+}
+
+.slide {
+  flex-shrink: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  opacity: 0;
+  position: absolute;
+  transition: left 1s ease-in-out, opacity 1s ease-in-out;
+}
+
+.slide.active {
+  opacity: 1;
+}
+@keyframes slideAnimation {
+  0% {
+    left: 0;
+  }
+
+  16.6666% {
+    left: -100%;
+  }
+
+  33.3333% {
+    left: -200%;
+  }
+
+  50% {
+    left: -300%;
+  }
+
+  66.6666% {
+    left: -400%;
+  }
+
+  83.3333% {
+    left: -500%;
+  }
+
+  100% {
+    left: -600%;
+  }
+}
+
+.sliding-window.animate {
+  animation: slideAnimation 12s infinite;
+}

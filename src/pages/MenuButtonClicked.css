@@ -1,0 +1,334 @@
+.website-bg-1-icon {
+  position: absolute;
+  top: 196px;
+  left: 0;
+  width: 1449px;
+  height: 828px;
+  object-fit: cover;
+}
+.menu-button-clicked-child,
+.menu-button-clicked-item {
+  position: absolute;
+  top: 110px;
+  left: 0;
+  width: 1524px;
+  height: 641px;
+  object-fit: cover;
+}
+.menu-button-clicked-item {
+  top: 306px;
+  left: 238px;
+  border-radius: 50%;
+  width: 110px;
+  height: 110px;
+}
+.ip-rights,
+.privacy-policy,
+.terms-of-use {
+  text-decoration: none;
+  position: absolute;
+  top: 691px;
+  left: 63px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 159px;
+  height: 30px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.ip-rights,
+.privacy-policy {
+  left: 288px;
+  width: 180px;
+}
+.ip-rights {
+  left: 537px;
+  width: 154px;
+}
+.discord2-2,
+.ig3-3,
+.tg-icon-3,
+.twitter1-3 {
+  text-decoration: none;
+  position: absolute;
+  top: 683px;
+  left: 1202px;
+  width: 45px;
+  height: 45px;
+  background-image: url(/public/discord.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.ig3-3,
+.tg-icon-3,
+.twitter1-3 {
+  left: 1262px;
+  width: 51px;
+  height: 41px;
+  background-image: url(/public/ig.png);
+}
+.tg-icon-3,
+.twitter1-3 {
+  top: 686px;
+  left: 1146px;
+  width: 38px;
+  height: 39px;
+  background-image: url(/public/twitter.png);
+}
+.tg-icon-3 {
+  top: 684px;
+  left: 1328px;
+  width: 39px;
+  background-image: url(/public/tgicon-2@3x.png);
+}
+.menu-button-clicked-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #370c59;
+  width: 1440px;
+  height: 109px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 106px;
+  left: 0;
+  background-color: var(--color-khaki);
+  width: 1440px;
+  height: 11px;
+}
+.logo-bw-photoroom-2-icon {
+  position: absolute;
+  top: 4px;
+  left: 676px;
+  width: 86px;
+  height: 97px;
+  object-fit: cover;
+}
+.dont-forget-to {
+  position: absolute;
+  top: 44px;
+  left: 283px;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  background: linear-gradient(180deg, red, rgba(255, 220, 96, 0.88));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.get-shroomlisted {
+  left: 7px;
+}
+.dont-forget-to1,
+.get-shroomlisted,
+.listed {
+  position: absolute;
+  top: 44px;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  background: linear-gradient(180deg, red, rgba(255, 220, 96, 0.88));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.dont-forget-to1 {
+  left: 895px;
+  display: inline-block;
+  width: 565px;
+}
+.listed {
+  left: 767px;
+}
+.ellipse-icon,
+.menu-button-clicked-child1,
+.menu-button-clicked-child2 {
+  position: absolute;
+  top: 464px;
+  left: 395px;
+  border-radius: 50%;
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+}
+.menu-button-clicked-child1,
+.menu-button-clicked-child2 {
+  top: 306px;
+  left: 27px;
+}
+.menu-button-clicked-child2 {
+  top: 154px;
+  left: 28px;
+}
+.menu-button-clicked-child3,
+.menu-button-clicked-child4,
+.menu-button-clicked-child5,
+.menu-button-clicked-child6 {
+  position: absolute;
+  top: 154px;
+  left: 128px;
+  border-radius: 50%;
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+}
+.menu-button-clicked-child4,
+.menu-button-clicked-child5,
+.menu-button-clicked-child6 {
+  left: 754px;
+}
+.menu-button-clicked-child5,
+.menu-button-clicked-child6 {
+  left: 833px;
+}
+.menu-button-clicked-child6 {
+  top: 464px;
+  left: 754px;
+}
+.menu-button-clicked-child10,
+.menu-button-clicked-child7,
+.menu-button-clicked-child8,
+.menu-button-clicked-child9 {
+  position: absolute;
+  top: 307px;
+  left: 754px;
+  border-radius: 50%;
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+}
+.menu-button-clicked-child10,
+.menu-button-clicked-child8,
+.menu-button-clicked-child9 {
+  left: 948px;
+}
+.menu-button-clicked-child10,
+.menu-button-clicked-child9 {
+  top: 464px;
+  left: 890px;
+}
+.menu-button-clicked-child10 {
+  left: 27px;
+}
+.menu-button-clicked-child11,
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-lightslategray);
+  position: absolute;
+  top: 464px;
+  left: 82px;
+  width: 372px;
+  height: 110px;
+}
+.menu-button-clicked-child11 {
+  left: 808px;
+  width: 137px;
+}
+.menu-button-clicked-child12,
+.menu-button-clicked-child13,
+.menu-button-clicked-child14,
+.menu-button-clicked-child15 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-lightslategray);
+  position: absolute;
+  top: 307px;
+  left: 804px;
+  width: 196px;
+  height: 110px;
+}
+.menu-button-clicked-child13,
+.menu-button-clicked-child14,
+.menu-button-clicked-child15 {
+  top: 154px;
+  left: 806px;
+  width: 84px;
+}
+.menu-button-clicked-child14,
+.menu-button-clicked-child15 {
+  top: 306px;
+  left: 82px;
+  width: 217px;
+}
+.menu-button-clicked-child15 {
+  top: 154px;
+  left: 86px;
+  width: 94px;
+}
+.about-us,
+.home,
+.mint,
+.shroomieverse {
+  position: absolute;
+  top: 160px;
+  left: 57px;
+  font-size: var(--font-size-50xl);
+  display: inline-block;
+  width: 163px;
+  height: 72px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.about-us,
+.mint,
+.shroomieverse {
+  top: 311px;
+  left: 61px;
+  width: 276px;
+  height: 74px;
+}
+.mint,
+.shroomieverse {
+  top: 468px;
+  left: 59px;
+  width: 420px;
+}
+.mint {
+  top: 161px;
+  left: 784px;
+  width: 192px;
+  height: 70px;
+}
+.screenshot-2023-06-05-at-1836 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 135px;
+  left: 1367px;
+  width: 57px;
+  height: 57px;
+  background-image: url(/public/screenshot20230605at183627photoroom1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.bridge,
+.roadmap {
+  position: absolute;
+  top: 313px;
+  left: 784px;
+  font-size: var(--font-size-50xl);
+  display: inline-block;
+  width: 358px;
+  height: 74px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.bridge {
+  top: 470px;
+  width: 212px;
+}
+.menu-button-clicked {
+  position: relative;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-jockey-one);
+}
